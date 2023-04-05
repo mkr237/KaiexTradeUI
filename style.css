@@ -1,0 +1,25 @@
+body {
+  background-color: #1C1C28;
+  font-family: "Roboto", sans-serif;
+  color: #C3C2D5;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  color: #C3C2D5;
+}
+
+h4 {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  color: #777777;
+}
+
+h2 {
+  margin-bottom: 0.2em; /* reduce bottom margin of h1 */
+}
+
+h4 {
+  margin-top: 0; /* remove top margin of h2 */
+}
